@@ -1,2 +1,11 @@
-install with npm install
-start with npm start
+## Install
+
+```
+npm install
+```
+
+## Run
+
+```
+npm start
+```
